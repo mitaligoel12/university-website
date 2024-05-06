@@ -1,0 +1,30 @@
+.home-page header {
+    
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/home-page-header.jpg);
+}
+
+header {
+     
+    
+    background-size: cover;
+    background-position: center;
+}
+
+.blog-section {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/blog-section-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    margin-top: 20px; 
+    /* or */
+    /* padding-top: 20px; adds 20px padding above the h1 tag */
+  }
+
+  h2 {
+    margin-top: 50px;
+    padding-top: 50px; 
+   
+  }
+
+ 
